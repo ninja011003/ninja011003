@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niranjan S</h1>
 <h3 align="center">A tech enthusiast who loves to solve problems!!!</h3>
 
-- 🔭 I’m currently working on [Timeseries Forecasting](https://github.com/ninja011003/TimeSeries-Forecasting-Python)
+- 🔭 I’m currently working on [Automated Machine Learning]
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 💬 Ask me about **Java,Problem Solving**
 
